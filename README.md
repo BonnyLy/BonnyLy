@@ -1,19 +1,3 @@
-## Hi there 👋
-
-
-**BonnyLy/BonnyLy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
 # Olá, eu sou [Seu Nome] 👋
 
 Bem-vindo ao meu perfil no GitHub! Eu sou [uma breve descrição sobre você: ex. desenvolvedor web, estudante de ciência da computação, etc.]. Aqui, você encontrará uma coleção dos meus projetos e contribuições, onde compartilho meu aprendizado e colaborações com a comunidade!
@@ -23,13 +7,13 @@ Bem-vindo ao meu perfil no GitHub! Eu sou [uma breve descrição sobre você: ex
 - 💻 Atualmente estou aprendendo: [Tecnologias que você está aprendendo, como Python, JavaScript, etc.]
 - 🔭 Focando em: [Tipo de projetos que você está desenvolvendo, como automações, websites, etc.]
 - 🌱 Eu estou aprendendo mais sobre: [Novas tecnologias ou conceitos que você está estudando]
-- 📫 Como me encontrar: [Seu e-mail, LinkedIn, Twitter, etc.]
+- 📫 Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-9974b6a2/)
 
 ## 🔧 Tecnologias que uso
 
 - **Linguagens:** [Python, JavaScript, C++, etc.]
 - **Frameworks:** [React, Node.js, Django, etc.]
-- **Ferramentas:** [Git, Docker, etc.]
+- **Ferramentas:** Git
 
 ## 📈 Estatísticas do meu GitHub
 
