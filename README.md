@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Eu sou [uma breve descrição sobre você: ex
 - 💻 Atualmente estou aprendendo: [Tecnologias que você está aprendendo, como Python, JavaScript, etc.]
 - 🔭 Focando em: [Tipo de projetos que você está desenvolvendo, como automações, websites, etc.]
 - 🌱 Eu estou aprendendo mais sobre: [Novas tecnologias ou conceitos que você está estudando]
-- 📫 Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-9974b6a2/)
+- 📫 Como me encontrar: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-9974b6a2/) [![Email](https://img.shields.io/badge/Email-%23D44638?logo=gmail&logoColor=white)](joaogabrielpereiradasilva@gmail.com)
 
 ## 🔧 Tecnologias que uso
 
