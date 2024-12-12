@@ -49,6 +49,8 @@ Eu sou um grande fã de contribuir para a comunidade. Aqui estão algumas das mi
 - [Repositório 2](link-do-repositorio-2)
 - [Repositório 3](link-do-repositorio-3)
 
+
+## 🌐 Vamos nos conectar!
 ---
 
 > "A melhor forma de prever o futuro é criá-lo." – Abraham Lincoln
