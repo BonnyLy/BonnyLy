@@ -1,6 +1,6 @@
-# Olá, eu sou  o[João Gabriel P. da Silva] 👋
+# Olá, eu sou  o João Gabriel P. da Silva 👋
 
-Bem-vindo ao meu perfil no GitHub! Eu sou [uma breve descrição sobre você: ex. desenvolvedor web, estudante de ciência da computação, etc.]. Aqui, você encontrará uma coleção dos meus projetos e contribuições, onde compartilho meu aprendizado e colaborações com a comunidade!
+Bem-vindo ao meu perfil no GitHub! Eu sou um estudante de back-end, me aprimorando para me tornar um fullstack web-developer. Aqui, você encontrará uma coleção dos meus projetos e contribuições, onde compartilho meu aprendizado e colaborações com a comunidade!
 
 ## 👨‍💻 Sobre mim
 
