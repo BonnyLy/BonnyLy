@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou  o[João Gabriel P. da Silva] 👋
 
 Bem-vindo ao meu perfil no GitHub! Eu sou [uma breve descrição sobre você: ex. desenvolvedor web, estudante de ciência da computação, etc.]. Aqui, você encontrará uma coleção dos meus projetos e contribuições, onde compartilho meu aprendizado e colaborações com a comunidade!
 
@@ -11,9 +11,9 @@ Bem-vindo ao meu perfil no GitHub! Eu sou [uma breve descrição sobre você: ex
 - 
 ## 🔧 Tecnologias que uso
 
-- **Linguagens:** [Python, JavaScript, C++, etc.]
-- **Frameworks:** [React, Node.js, Django, etc.]
-- **Ferramentas:** Git
+- **Linguagens:** [Java, JavaScript]
+- **Frameworks:** [Spring Boot]
+- **Ferramentas:** [Git]
 
 ## 📈 Estatísticas do meu GitHub
 
@@ -37,4 +37,3 @@ Eu sou um grande fã de contribuir para a comunidade. Aqui estão algumas das mi
 ## 🌐 Vamos nos conectar!
 ---
 
-> "A melhor forma de prever o futuro é criá-lo." – Abraham Lincoln
